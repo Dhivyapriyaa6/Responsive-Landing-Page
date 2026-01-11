@@ -1,6 +1,6 @@
-# Task-01: Responsive Landing Page 🚀
+# Responsive Landing Page 
 
-## 📌 Project Overview
+##  Project Overview
 This project is a **Responsive Landing Page** with an **interactive navigation menu**.  
 The navigation bar changes its **color/style on scroll** and **menu item hover**, and it stays **fixed at the top**, making it visible on all pages.
 
@@ -8,7 +8,7 @@ This task focuses on improving **UI/UX**, **responsiveness**, and **basic JavaSc
 
 ---
 
-## 🎯 Features
+##  Features
 - Fixed navigation bar visible on all pages
 - Navbar style changes when the page is scrolled
 - Hover effects on navigation menu items
@@ -17,14 +17,14 @@ This task focuses on improving **UI/UX**, **responsiveness**, and **basic JavaSc
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML5** – Page structure  
 - **CSS3** – Styling, responsiveness, hover effects  
 - **JavaScript** – Scroll-based and interactive behavior  
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ├── index.html
 ├── style.css
 ├── script.js
@@ -32,7 +32,7 @@ This task focuses on improving **UI/UX**, **responsiveness**, and **basic JavaSc
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 - HTML structures the landing page and navigation menu
 - CSS handles layout, colors, transitions, and responsiveness
 - JavaScript listens to scroll events and dynamically updates
@@ -40,7 +40,7 @@ This task focuses on improving **UI/UX**, **responsiveness**, and **basic JavaSc
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/Dhivyapriyaa6/Responsive-Landing-Page.git
